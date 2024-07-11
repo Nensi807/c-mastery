@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+main(){
+	float l , ans , w;
+	clrscr();
+	printf("Enter the value of L: ");
+	scanf("%f",&l);
+	printf("Enter the value of W: ");
+	scanf("%f",&w);
+	ans = w * l;
+	printf("The length is %.2f",ans);
+	getch();
+}

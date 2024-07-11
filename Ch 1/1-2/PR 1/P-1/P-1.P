@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+     clrscr();
+     printf("Name\t: Nensi\n");
+     printf("Age\t: 19\n");
+      printf("School\t: Red & White\n");
+
+
+     getch();
+
+
+
+
+}
