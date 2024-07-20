@@ -1,0 +1,31 @@
+#include<stdio.h>
+#include<conio.h>
+
+
+main()
+
+{
+      int c, ans;
+
+      clrscr();
+
+	printf("Please enter the temperature in celsius: ");
+	scanf("%d",&c);
+	ans = (c * 9/5)+32;
+
+	printf("The temperature in faherenheit :%d",ans);
+
+
+	getch();
+
+}
+
+
+
+
+
+
+
+
+
+
